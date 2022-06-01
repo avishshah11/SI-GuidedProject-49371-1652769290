@@ -30,6 +30,6 @@ Model trained in ibm cloud using Tensorflow and web-app made using flask.
 
 ## Demo
 
-Drive link for demo video
+Demo video
 
-![video](https://drive.google.com/file/d/1A3WtzgwTeXLOMP2CpK6nR6Kag7z8iFAE/view?usp=sharing)
+[![Natural Disasters Intensity Analysis and Classification](https://img.youtube.com/vi/DfwT4w6JSIg/0.jpg)](https://youtu.be/DfwT4w6JSIg)
