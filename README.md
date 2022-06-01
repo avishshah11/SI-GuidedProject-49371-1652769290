@@ -10,6 +10,9 @@ Model trained using Tensorflow and web-app made using flask.
 ### Introduction page
 ![Introduction page](img/Introduction.png)
 
+### Upload page
+![upload](img/Upload.png)
+
 ### Video cam prediction results
 
 ### Cyclone
@@ -20,4 +23,7 @@ Model trained using Tensorflow and web-app made using flask.
 
 ### Earthquake
 ![earthquake](img/Earthquake.png)
+
+### Flood
+![flood](img/Flood.png)
 
