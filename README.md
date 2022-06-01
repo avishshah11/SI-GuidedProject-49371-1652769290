@@ -1,6 +1,6 @@
 # Natural Disasters Intensity Analysis and Classification using Artificial Intelligence
 
-Model trained using Tensorflow and web-app made using flask.
+Model trained in ibm cloud using Tensorflow and web-app made using flask.
 
 ## Project screenshots
 
@@ -27,3 +27,9 @@ Model trained using Tensorflow and web-app made using flask.
 ### Flood
 ![flood](img/Flood.png)
 
+
+## Demo
+
+Drive link for demo video
+
+![https://drive.google.com/file/d/1A3WtzgwTeXLOMP2CpK6nR6Kag7z8iFAE/view?usp=sharing](https://drive.google.com/file/d/1A3WtzgwTeXLOMP2CpK6nR6Kag7z8iFAE/view?usp=sharing)
