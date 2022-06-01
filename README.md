@@ -8,9 +8,9 @@ Model trained using Tensorflow and web-app made using flask.
 ![Homepage](img/homepage.png)
 
 ### Introduction page
-![Introduction page](img/Introdction.png)
+![Introduction page](img/Introduction.png)
 
-### Video cam predctions results
+### Video cam prediction results
 
 ### Cyclone
 ![cyclone](img/Cyclone.png)
